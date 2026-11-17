@@ -1,0 +1,12 @@
+# Fail sistem / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.swp
+
+# Sandaran dan fail sementara
+*.zip
+*.bak
+*.log
